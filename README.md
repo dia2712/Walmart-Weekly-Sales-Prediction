@@ -20,7 +20,14 @@ The goal is to help businesses optimize inventory and reduce stock-outs.
 1. Data preprocessing & feature engineering  
 2. Exploratory Data Analysis (EDA)  
 3. Model training & evaluation  
-4. Forecast visualization  
+4. Forecast visualization
+
+## Execute the files in this order
+1. EDA.py
+2. Visualization.py
+3. DataPreprocessing.py
+4. TrainingAndEvaluation.py
+   
 
 ## 📊 Results  
 1. Random forest regressor
